@@ -2,7 +2,7 @@
 Calculates GPA for Heathfield High School reports. From version 3 onwards it can calculate any number of grades (assignments/multiple reports).
 
 v5:
-- Fixed dividing by 2 when only one class entered
+- Fixed bug where numbers would get divided by 2 when only one number entered
 
 v4
 - Updated calculator to divide by op.value instead of ce.value
