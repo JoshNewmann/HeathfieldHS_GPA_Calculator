@@ -1,6 +1,9 @@
 # Heathfield High School GPA Calculator
 Calculates GPA for Heathfield High School reports. From version 3 onwards it can calculate any number of grades (assignments/multiple reports).
 
+v5:
+- Fixed dividing by 2 when only one class entered
+
 v4
 - Updated calculator to divide by op.value instead of ce.value
 
