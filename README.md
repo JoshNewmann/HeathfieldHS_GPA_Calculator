@@ -1,4 +1,7 @@
-# Heathfield High School GPA Calculator
+# This project has been moved to gitlab:
+
+https://gitlab.com/joshnewman6/hhsgpacalculator
+
 Calculates GPA for Heathfield High School reports. From version 3 onwards it can calculate any number of grades (assignments/multiple reports).
 
 v5:
